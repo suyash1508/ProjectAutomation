@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Leo/Downloads/Selenium latest jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leo/Downloads/appium new jars/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leo/Downloads/appium new jars/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leo/Downloads/appium new jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/animal-sniffer-annotations-1.17.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/appium-3.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/asm-6.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/aspectjweaver-1.9.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/auto-value-annotations-1.6.2.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/cglib-3.2.6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/checker-compat-qual-2.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/checker-qual-2.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-text-1.6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/configs-1.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/diffutils-1.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/error_prone_annotations-2.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/error-1.6.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/failureaccess-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/guava-27.0-jre.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/listeners-1.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/log4j-api-2.11.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/log4j-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/logger-1.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/opencv-3.2.0-1.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-api-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-chrome-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-edge-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-firefox-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-ie-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-java-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-opera-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-remote-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-safari-driver-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/selenium-support-3.141.5.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/snakeyaml-1.23.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="G:/downloads/selenium-java-3.14.0/appium jars/truth-0.42.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
